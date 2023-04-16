@@ -28,6 +28,8 @@ requirements:
     - r-base
     - r-catt
     - r-fsa
+    - r-car
+    - r-clinfun
     - r-fitdistrplus
     - r-gmodels
     - r-multica
@@ -38,6 +40,8 @@ requirements:
     - r-base
     - r-catt
     - r-fsa
+    - r-car
+    - r-clinfun
     - r-fitdistrplus
     - r-gmodels
     - r-multica
